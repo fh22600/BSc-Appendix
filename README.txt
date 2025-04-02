@@ -8,5 +8,5 @@ setup.sh scripts were used for setting up directories for the nonequilibrium sim
 The 'analysis' directory contains all Python scripts and Jupyter notebooks used for analysis of simulation data.
 Additional README files accompany additional directories within the 1A0_Sim and 1A5_Sim directories for additional information.
 
-Please note that filepaths used in analysis ntoebooks may need changing as extra directories needed to be made in order to commit data and code to GitHub.
+Please note that filepaths used in analysis notebooks may need changing as extra directories needed to be made in order to commit data and code to GitHub.
 If you have any queries, please contact me at fh22600@bristol.ac.uk. Thank you! 
